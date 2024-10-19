@@ -129,11 +129,6 @@ Special thanks to the following resources and libraries:
 - [Googletrans](https://pypi.org/project/googletrans/)
 - [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
 
----
-
-> This README was crafted with ❤️ for the Speech Translator App. Enjoy translating your speech and making communication easier across languages!
-
----
 
 ## 🌈 Final Notes
 We hope you enjoy using the **Speech Translator App**. Your feedback is invaluable, and we look forward to hearing your thoughts! If you encounter any issues or have suggestions, feel free to reach out.
